@@ -1,0 +1,1 @@
+{"name":"Leonardo","interviewed":true,"isEnrolled":true,"proposalSent":true,"introductoryCourse":true}
